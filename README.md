@@ -1,5 +1,4 @@
 # First-mini-System
-2nd yr 2nd sem college 
-
+First system to be made by yours truly
 
 ### To be updated with more features soon :>
