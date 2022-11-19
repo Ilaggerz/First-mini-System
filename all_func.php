@@ -97,15 +97,4 @@ function Update_tools($ed_nme, $ed_shpdte, $ed_prc, $ed_shpordr ,$up_id, $up_tb)
 }
 
 
-
-
-    // // not sure if Im gonna use tho :/
-// function search_main($search)
-// {   
-//     $conn = getDatabaseConnection();
-//     $query = $conn->prepare("SELECT * FROM `total_inventory` WHERE `Tool_id ` LIKE '%$search%' or `Tool_name` LIKE '%$search%' or `Section` LIKE '%$search%'")
-//                             or die ("search not working");
-//     $query->execute();
-//     return $query;
-// }
 ?>
